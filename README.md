@@ -1,2 +1,2 @@
-# cloudDeploy
-Autodeploying now from GitHub attempt 2
+# Setup Jenkins installation for splitter
+Autodeploying Jenkins
